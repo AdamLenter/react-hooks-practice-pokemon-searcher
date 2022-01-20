@@ -1340,6 +1340,24 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "Bulbasaur",
+      "hp": "46",
+      "sprites": {
+        "front": "https://archives.bulbagarden.net/media/upload/thumb/archive/2/21/20161213232013%21001Bulbasaur.png",
+        "back": "https://static.wikia.nocookie.net/pokemon/images/5/58/Bulbasaur_Back_LGPE.gif"
+      },
+      "id": 151
+    },
+    {
+      "name": "Eli Manning",
+      "hp": "24",
+      "sprites": {
+        "front": "https://gray-wlox-prod.cdn.arcpublishing.com/resizer/WHOeMGnOYo7sSykBQ33ztBIzvZk=/1200x675/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/JSLQKFAZP5GINGXPFV6CBAUO7Q.jpg",
+        "back": "https://images.nittanyweb.com/scs/images/products/116/original/eli_manning_signed_autographed_new_york_giants_nike_on_field_jersey_jsa_authentic_p6810353.jpg"
+      },
+      "id": 152
     }
   ]
 }
